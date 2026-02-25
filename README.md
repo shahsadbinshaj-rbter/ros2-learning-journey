@@ -1,8 +1,6 @@
 # ROS2 Robotics Journey 🚀
 
-## Day 1 - Environment Setup
-
-Today I:
+## Environment Setup
 
 - Installed Ubuntu using WSL2
 - Installed ROS2 Humble
