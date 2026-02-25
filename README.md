@@ -13,4 +13,3 @@ This repository documents my journey into robotics and autonomous systems.
 Goal:
 Build advanced ROS2 projects.
 
-— Shahsad
