@@ -1,5 +1,5 @@
 ![Turtlesim Screenshot](turtle_ss.png)
-# Day 2 — My First Robot Simulation (Turtlesim)
+# My First Robot Simulation (Turtlesim)
 
 Today I ran my first robot simulation using ROS2.
 
@@ -34,5 +34,3 @@ This helped me understand that a robot is not one big program, but many small pr
 
 Next Goal:
 Create my own ROS2 node instead of using an existing one.
-
-— Shahsad
